@@ -1,2 +1,1 @@
-# ponto-inteligente-api
-API criada pelo curso do Udemy
+[![Build Status](https://travis-ci.com/titamidark/ponto-inteligente-api.svg?branch=master)](https://travis-ci.com/titamidark/ponto-inteligente-api)
